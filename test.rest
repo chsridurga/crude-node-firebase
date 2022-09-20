@@ -13,8 +13,7 @@ Content-Type: application/json
 
 {
     "name": "banana",
-    "status": "friend",
-     "name"
+    "status": "friend"
 }
 
 ### UPDATE STATUS OF A FRIEND
